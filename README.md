@@ -4,7 +4,7 @@
 This submission contains the analytical framework used to determine optimal opening strategies for the Mixed Doubles Power Play. The included code processes historical telemetry to establish statistical benchmarks for defensive (Shot 7) and offensive (Shot 8) success.
 
 ### File Descriptions
-##### 1. Power_Play_Strategy_Analysis.ipynb
+##### 1. powerplay_defense.ipynb
 
 This is the primary documented code file. It is a self-contained Jupyter Notebook that performs the following operations:
 
